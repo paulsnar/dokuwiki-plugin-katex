@@ -1,0 +1,7 @@
+base   katex
+author paulsnar
+email  paulsnar@paulsnar.lv
+date   2020-05-11
+name   KaTeX Plugin
+desc   Enable LaTeX expression display via KaTeX (https://katex.org/)
+url    https://github.com/paulsnar/dokuwiki-plugin-katex

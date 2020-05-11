@@ -1,0 +1,23 @@
+.dwkatex--block {
+  font-size: 1.2em;
+}
+
+.dwkatex--error {
+  color: #990000;
+  position: relative;
+}
+
+.dwkatex--error-details {
+  display: none;
+}
+.dwkatex--error:hover > .dwkatex--error-details {
+  display: block;
+  position: absolute;
+  top: 1.12em;
+  left: 0;
+  font-size: 0.9em;
+  width: max-content;
+  background-color: #fffaac;
+  padding: 0.25em;
+  color: black;
+}
